@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/userver/darknet_CarOneClass/scripts/train.txt
+valid  = /home/userver/darknet_CarOneClass/scripts/2007_test.txt
+names = model/tiny-yolo_oneClass/voc.names
+backup = /home/userver/darknet_CarOneClass/tiny-yolo
